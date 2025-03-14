@@ -1,2 +1,2 @@
-# UDG-CSV-Code-Challenge-Ausbildung-
+# UDG-CSV-Code-Challenge-Ausbildung
 Meine Ergebnisse zur UDG Code Challenge
